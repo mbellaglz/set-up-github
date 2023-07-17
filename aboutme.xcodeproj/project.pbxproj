@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BD0029542A658EE600A8D101 /* secondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD0029532A658EE600A8D101 /* secondView.swift */; };
 		BD5D3DF72A607368001D71CE /* aboutmeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD5D3DF62A607368001D71CE /* aboutmeApp.swift */; };
 		BD5D3DF92A607368001D71CE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD5D3DF82A607368001D71CE /* ContentView.swift */; };
 		BD5D3DFB2A607369001D71CE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD5D3DFA2A607369001D71CE /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BD0029532A658EE600A8D101 /* secondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondView.swift; sourceTree = "<group>"; };
 		BD5D3DF32A607368001D71CE /* aboutme.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = aboutme.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD5D3DF62A607368001D71CE /* aboutmeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aboutmeApp.swift; sourceTree = "<group>"; };
 		BD5D3DF82A607368001D71CE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -35,6 +37,7 @@
 		BD5D3DEA2A607368001D71CE = {
 			isa = PBXGroup;
 			children = (
+				BD0029532A658EE600A8D101 /* secondView.swift */,
 				BD5D3DF52A607368001D71CE /* aboutme */,
 				BD5D3DF42A607368001D71CE /* Products */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BD5D3DF92A607368001D71CE /* ContentView.swift in Sources */,
+				BD0029542A658EE600A8D101 /* secondView.swift in Sources */,
 				BD5D3DF72A607368001D71CE /* aboutmeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -10,10 +10,6 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-//            Image(systemName: "globe")
-//                .imageScale(.large)
-//                .foregroundColor(.accentColor)
-//            Text("Hello, world!")
 //
 //            Image("Madam Marie Curie").resizable()
 //                .aspectRatio(contentMode: .fit)
@@ -24,7 +20,7 @@ struct ContentView: View {
             Text("MiaBella Gonzalez")
                 .font(.title)
             
-            Text("I'm 14 years old so an incoming freshman.So far the only careers that intreist me are criminal justice, forensic science,and liberal arts.")
+            Text("I'm 14 years old so an incoming freshman.So far the only careers that intreist me are criminal justice, forensic science,and liberal arts. 🕸️")
         
         }
         .padding()
